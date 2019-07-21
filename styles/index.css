@@ -1,0 +1,53 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+footer{
+    background:#123273;
+    height: 50px;
+}
+
+
+div p{
+    color:rgba(0,0,0,.7);   
+    text-align: justify;
+}
+
+.divider{
+    height:95px;
+}
+
+nav{
+    font-size: 18px;
+    box-shadow: 0px 0px 5px 0.5px black;
+}
+
+.experience-container img{
+    width:150px;
+    height: auto;
+}
+
+
+.experience-container{
+    background:#f7f7f7;
+    padding: 15px 0px;
+}
+
+
+.experience-container h1{
+    font-size:50px;
+    color:#5c5c5c;
+}
+
+.experience{
+    padding: 20px 40px;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    overflow-x:scroll; 
+}
+
+
+.experience .img-container{
+    margin:0px 20px;
+}
